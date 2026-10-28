@@ -1,22 +1,19 @@
-<h1>Hi, I'm Rian Esguerra!</h1>
+<h1>Hi, I'm Rian Esguerra! </h1>
 
 <h2>:memo: Engineering Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Capstone: MAGNADIAN](https://github.com/joshmadakor1/Algorithms-Practice)
 
-
+<h2> About Me </h2>
+  
+I’m a Nanotechnology Engineering graduate from the University of Waterloo, with specialization in nanoelectronics. I’ve worked as a research assistant at the National Research Council Canada, where I fabricated and characterized nanocomposites for radiation shielding, as a materials science intern at H2nanO, where I optimized synthesis processes for wastewater treatment materials, and as a lens technician at Iridian Spectral Technologies, where I ran coating equipment and quality inspections.
+  
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[linkedin]: www.linkedin.com/in/rian-esguerra
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
