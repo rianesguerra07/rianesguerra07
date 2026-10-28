@@ -6,15 +6,14 @@ I’m a Nanotechnology Engineering graduate from the University of Waterloo, wit
 
 <h2>:memo: Engineering Projects:</h2>
 
-  - [Capstone: MAGNADIAN](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Capstone: MAGNADIAN](https://github.com/rianesguerra07/CapstoneMAGNADIAN)
 
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rian Esguerra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-[linkedin]: www.linkedin.com/in/rian-esguerra
+[linkedin]: https://www.linkedin.com/in/rian-esguerra
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
