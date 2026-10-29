@@ -13,7 +13,7 @@ I'm a Nanotechnology Engineering graduate from the University of Waterloo (Nanoe
 
 <h2>:memo: Engineering Projects:</h2>
 
-- [Capstone: MAGNADIAN](https://github.com/rianesguerra07/CapstoneMAGNADIAN) — A real-time benchtop sensor that uses tunneling magnetoresistance (TMR) sensors and functionalized magnetic nanoparticles to detect microplastic contamination in industrial hydrogen peroxide.
+- [Capstone: MAGNADIAN](https://github.com/rianesguerra07/CapstoneMAGNADIAN) - A real-time benchtop sensor that uses tunneling magnetoresistance (TMR) sensors and functionalized magnetic nanoparticles to detect microplastic contamination in industrial hydrogen peroxide.
 
 <h2> 🤳 Connect with me:</h2>
 
